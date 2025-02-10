@@ -1,6 +1,6 @@
 # Telegram SSH Bot
 
-[![Rec-0026](https://i.ibb.co/PZLNCTrN/Rec-0026.gif)](https://ibb.co/Y7C3jDN3)
+![Usage Demo](https://i.ibb.co/PZLNCTrN/Rec-0026.gif)
 
 
 A **Telegram Bot** that provides a persistent SSH session, enabling you to connect to a remote server, execute commands interactively, and receive clean output—all directly through Telegram. This project uses asynchronous programming with [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) (v20+), [Paramiko](https://www.paramiko.org/) for SSH connections, and [nest_asyncio](https://github.com/erdewit/nest_asyncio) for nested event loop compatibility.
