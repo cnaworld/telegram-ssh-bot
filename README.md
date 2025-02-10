@@ -32,7 +32,7 @@ A **Telegram Bot** that provides a persistent SSH session, enabling you to conne
 Open your terminal and clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/telegram-ssh-bot.git
+git clone https://github.com/cnaworld/telegram-ssh-bot.git
 cd telegram-ssh-bot
 ```
 
